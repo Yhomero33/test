@@ -34,4 +34,4 @@ if(gokuSigueVivo()){
 /**
  * generar 3 condiciones si puede pasa o no, pg, si es menor de edad no pasa, si es mayor d eedad pasa , 
  * si es menor de edad pero va con un adulto si pasa
- * */ */
+ * */
