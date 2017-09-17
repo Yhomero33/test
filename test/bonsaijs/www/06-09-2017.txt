@@ -1,0 +1,43 @@
+
+	TAREA
+
+	Parte 1 tarea	
+
+	buscar matemáticamente hablando la estructura de una animación
+	
+	buscar los diferentes tipos de animacion que normalmente nos 
+	encontramos en un software
+
+	buscar que es un keyframe
+
+	buscar un ejemplo de animación (en codiguito) hecho con keyframe y
+	css
+
+	-------------------------------------------------------------------
+
+	Lunes segunda parte del examen diagnostico.
+
+	
+
+------------------------------------------------------------------------
+	nota los sprites se hacen en PixelArt
+
+	TAREA para mañana
+
+	mover el rectangulo de punto a punto
+
+
+	create table "nombre de la tabla" (tipo de dato "atributo1");
+
+--------------------------------------------------
+
+	TAREA
+	
+	Un script que tenga un circulo y un arco, que se dibujen en la cordenada
+	[0,5], radio = 6p (6 pixeles) , moverlo horizontalmente hasta la coordenada
+	300 y desde la 300 que se mueva verticalmente hasta la 450 y de ahí al origen
+	
+
+	Y aparte el arco debe ir detrás de él.
+
+	
